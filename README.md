@@ -19,9 +19,6 @@ I’m a **Data Engineer** with over **3 years of experience** in building scalab
 
 ## 🎯 Certifications  
 - **Microsoft Certified: Azure Data Engineer Associate**  
----
-
----
 
 ## 🛠️ Tech Stack  
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
