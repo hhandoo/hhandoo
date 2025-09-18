@@ -29,11 +29,11 @@ I’m a **Data Engineer** with over **3 years of experience** in building scalab
 
 ## 🏆 Experience  
 ### **McKinsey & Company, Gurugram, India** 
-#### **Data Engineer I | Jan 2024 - Present**  
+#### **Data Engineer I | July 2025 - Present**  
 - Working on client feed ingestion, validation, transformation using Databricks, Apache Airflow, Spache Spark and SQL
 
 ### **Genpact, Gurugram, India**  
-#### **Lead Consultant (Data Engineering) | Jan 2024 - July 2025**  
+#### **Lead Consultant (Data Engineering) | Jan 2024 - June 2025**  
 - Created and implemented scalable data pipelines in cloud-native environments like Azure Synapse Analytics, utilizing ETL and ELT methodologies within a metadata-driven ingestion framework.
 - Implemented data lake solutions using Azure Data Lake Storage for storing raw and unstructured data.
 - Developed modern data warehouse architecture using Azure Synapse Analytics and Azure Data Factory.
