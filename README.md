@@ -5,7 +5,7 @@
 ---
 
 ## 👨‍💻 About Me  
-I’m a **Data Engineer** with over **3 years of experience** in building scalable data pipelines, optimizing big data workflows, and delivering actionable insights. I specialize in working with modern data technologies, and I’m passionate about solving complex data challenges.  
+I’m a **Data Engineer** with over **4 years of experience** in building scalable data pipelines, optimizing big data workflows, and delivering actionable insights. I specialize in working with modern data technologies, and I’m passionate about solving complex data challenges.  
 
 ### 🚀 My Skills:  
 - **Big Data Technologies:** Apache Spark, Hadoop, Hive  
