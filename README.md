@@ -30,7 +30,7 @@ I’m a **Data Engineer** with over **3 years of experience** in building scalab
 ## 🏆 Experience  
 ### **McKinsey & Company, Gurugram, India** 
 #### **Data Engineer I | July 2025 - Present**  
-- Working on client feed ingestion, validation, transformation using Databricks, Apache Airflow, Spache Spark and SQL
+- Working on client feed ingestion, validation, transformation using Databricks, Apache Airflow, Spache Spark, Python and SQL
 
 ### **Genpact, Gurugram, India**  
 #### **Lead Consultant (Data Engineering) | Jan 2024 - June 2025**  
